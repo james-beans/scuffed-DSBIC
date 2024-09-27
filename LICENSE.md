@@ -47,6 +47,9 @@ This license is also listed at the bottom of the [Boxicons usage-page](https://b
 
 ---
 
+</div>
+<div align="center">
+
 ## GPL v3 License (For Modifications and Custom Content):
 
 For the full text, see [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
