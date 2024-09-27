@@ -30,7 +30,7 @@ All changes including the images and when they were changed are listed in the [C
 - Installation guides:
   - **Windows 10 and 11**:
     - Extract the `.zip` file downloaded from [Releases](https://github.com/james-beans/scuffed-DSBIC/releases),
-    - ***Right CLick*** the `install.ini` file in the extracted `.zip` file and click install.
+    - ***Right CLick*** the `install.inf` file in the extracted `.zip` file and click install.
     - Open the ***Control Panel*** from the start menu and ***click mouse***.
     - Click the ***Pointers*** tab on the new window that pops-up.
     - Under `Scheme` click the `scuffed-DSBIC` option and click Apply.
