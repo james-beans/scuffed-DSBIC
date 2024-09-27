@@ -26,7 +26,7 @@ All changes including the images and when they were changed are listed in the [C
 
 ### Disclamers:
 - The images can be used to make cursor icons for MacOS and Linux.
-  - I will **not update** the `.cur` files for MacOS and/or Linux as I don't have time.
+  - I will **not update** the `.cur` files for MacOS and/or Linux myself as I don't have time.
 - Installation guides:
   - **Windows 10 and 11**:
     - Extract the `.zip` file downloaded from [Releases](https://github.com/james-beans/scuffed-DSBIC/releases),
