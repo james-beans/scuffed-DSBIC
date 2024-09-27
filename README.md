@@ -22,7 +22,7 @@ A ***very scuffed*** **cursor pack** made with Boxicons for icons.
 ## Changes and Disclamers:
 
 ### Changes:
-All changes including the images and when they were changed are listed in the [CHANGES.md file]().
+All changes including the images and when they were changed are listed in the [CHANGES.md file](https://github.com/james-beans/scuffed-DSBIC/blob/main/CHANGES.md).
 
 ### Disclamers:
 - The images can be used to make cursor icons for MacOS and Linux.
