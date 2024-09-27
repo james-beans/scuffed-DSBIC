@@ -43,7 +43,9 @@ IN THE SOFTWARE.
 
 <br>
 <br>
-This license is also listed at the bottom of the [Boxicons usage-page](https://boxicons.com/usage).<br>
+This license is also listed at the bottom of the [Boxicons usage page](https://boxicons.com/usage).
+
+<br>
 
 ---
 
