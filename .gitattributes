@@ -4,3 +4,7 @@
 *.inf linguist-detectable
 # allows cursor files (*.cur files) to show in the repo capsule
 *.cur linguist-detectable
+# allows png image files (*.png files) to show in the repo capsule
+*.png linguist-detectable
+# allows zip files (*.zip files) to show in the repo capsule
+*.zip linguist-detectable
