@@ -1,0 +1,6 @@
+# allows markdown files (*.md files) to show in the repo capsule
+*.md linguist-detectable
+# allows INF config files (*.inf files) to show in the repo capsule
+*.inf linguist-detectable
+# allows cursor files (*.cur files) to show in the repo capsule
+*.cur linguist-detectable
